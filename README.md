@@ -1,0 +1,2 @@
+# InheritanceAndAbstract
+Kotlinスタートブック読書会
